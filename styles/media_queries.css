@@ -1,6 +1,5 @@
 @media screen and (min-width: 0px) and (max-width: 350px) {
     
-
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -65,12 +64,12 @@
 .menu-letter4 {
     left: 15px;
     width: 400px;
-    top: 455px;
+    top: 435px;
     }
 
 .menu-letter5 {
     left: 15px;
-    top: 500px;
+    top: 480px;
     }
 .sub-menu-rule{
     top: 265px;
@@ -527,7 +526,7 @@ p {
  
 .images{
     margin-top: 300px;
-    left: -150px;
+    left: -250px;
     width: calc(200% - 00px);
 }    
 .images-11{
@@ -803,6 +802,92 @@ input[type=text] {
 }
 .students-work-container{
     display: none;
+}      
+.wayfinding-title{
+    left: 15px;
+    margin-top: 220px;
+}
+
+.wayfinding-title span{
+    margin-left: 1px;
+}
+
+.wayfinding-subtitle{
+    left: 14px;
+    top: 0px;
+}    
+.wayfinding{
+    clear: both;
+    width: 100vw;
+    margin-top: 50px;
+    float: left;
+    position: relative;
+}
+
+.wayfinding2{
+    clear: both;
+    width: 100%;
+    margin-top: -50px;
+    float: left;
+    position: relative;
+}     
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(100%);
+    display: none;
+}   
+.wayfinding-block2{
+    left: 15px;
+    width: 90%;
+    margin-bottom: 150px;
+}    
+.wayfinding-block12{
+    padding-bottom: 250px;
+    left: 15px;
+    width: 90%;
+}    
+.categories-location{
+    left: -60px;
+    margin-top: -250px;
+}    
+.categories-location2{
+    left: -60px;
+}    
+.categories {
+    left: -16px;
+    margin-top: -250px;
+} 
+.categories2 {
+    left: 20px;
+}   
+.wayfinding-header3{
+    left: 15px;
+    width: 150px;
+    float: left;
+    clear: both;
+    margin-top: 0px;
+}   
+.wayfinding-header4{
+    left: 15px;
+    width: 150px;
+    float: left;
+    clear: both;
+    margin-bottom: -0px;
+    margin-top: -54px;
+} 
+.wayfinding-image-credit{
+    left: 73px;
+    width: 210px;
+    margin-top: 5px;
+    clear: both;
+}    
+.wayfinding-image-credit2{
+    left: 90px;
+    width: 200px;
+    clear: both;
 }     
     
 }
@@ -874,12 +959,12 @@ input[type=text] {
 .menu-letter4 {
     left: 25px;
     width: 400px;
-    top: 505px;
+    top: 485px;
     }
 
 .menu-letter5 {
     left: 25px;
-    top: 560px;
+    top: 540px;
     }
 .sub-menu-rule{
     top: 317px;
@@ -1278,7 +1363,7 @@ p {
  
 .images{
     margin-top: 300px;
-    left: -150px;
+    left: -250px;
     width: calc(200% - 00px);
 }    
 .images-11{
@@ -1545,6 +1630,89 @@ input[type=text] {
 .students-work-container{
     display: none;
 }   
+.wayfinding-title{
+    left: 15px;
+    margin-top: 220px;
+}
+
+.wayfinding-title span{
+    margin-left: 1px;
+}
+
+.wayfinding-subtitle{
+    left: 14px;
+    top: 0px;
+}    
+.wayfinding{
+    clear: both;
+    width: 100vw;
+    margin-top: 50px;
+    float: left;
+    position: relative;
+}
+
+.wayfinding2{
+    clear: both;
+    width: 100%;
+    margin-top: -50px;
+    float: left;
+    position: relative;
+}     
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(100%);
+}   
+.wayfinding-block2{
+    left: 15px;
+    width: 90%;
+    margin-bottom: 150px;
+}    
+.wayfinding-block12{
+    padding-bottom: 250px;
+    left: 15px;
+    width: 90%;
+}    
+.categories-location{
+    left: 4px;
+    margin-top: -250px;
+}    
+.categories-location2{
+    left: 4px;
+}    
+.categories {
+    left: 46px;
+    margin-top: -250px;
+} 
+.categories2 {
+    left: 80px;
+}   
+.wayfinding-header3{
+    left: 15px;
+    width: 150px;
+    float: left;
+    margin-top: -66px;
+}   
+.wayfinding-header4{
+    left: 15px;
+    width: 150px;
+    float: left;
+    margin-bottom: 200px;
+    margin-top: -154px;
+} 
+.wayfinding-image-credit{
+    left: 137px;
+    width: 210px;
+    margin-top: 5px;
+    clear: both;
+}    
+.wayfinding-image-credit2{
+    left: 154px;
+    width: 200px;
+    clear: both;
+}    
     
 }
 
@@ -1614,12 +1782,12 @@ input[type=text] {
 .menu-letter4 {
     left: 25px;
     width: 400px;
-    top: 595px;
+    top: 565px;
     }
 
 .menu-letter5 {
     left: 25px;
-    top: 650px;
+    top: 620px;
     }
 .sub-menu-rule{
     top: 350px;
@@ -2018,7 +2186,7 @@ p {
  
 .images{
     margin-top: 300px;
-    left: -150px;
+    left: -250px;
     width: calc(200% - 00px);
 }    
 .images-11{
@@ -2291,7 +2459,90 @@ input[type=text] {
 }
 .students-work-container{
     display: none;
+}   
+.wayfinding-title{
+    left: 15px;
+    margin-top: 220px;
 }
+
+.wayfinding-title span{
+    margin-left: 1px;
+}
+
+.wayfinding-subtitle{
+    left: 14px;
+    top: 0px;
+}    
+.wayfinding{
+    clear: both;
+    width: 100vw;
+    margin-top: 50px;
+    float: left;
+    position: relative;
+}
+
+.wayfinding2{
+    clear: both;
+    width: 100%;
+    margin-top: -50px;
+    float: left;
+    position: relative;
+}     
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(100%);
+}   
+.wayfinding-block2{
+    left: 15px;
+    width: 90%;
+    margin-bottom: 150px;
+}    
+.wayfinding-block12{
+    padding-bottom: 250px;
+    left: 15px;
+    width: 90%;
+}    
+.categories-location{
+    left: 35px;
+    margin-top: -250px;
+}    
+.categories-location2{
+    left: 37px;
+}    
+.categories {
+    left: 76px;
+    margin-top: -250px;
+} 
+.categories2 {
+    left: 110px;
+}   
+.wayfinding-header3{
+    left: 15px;
+    width: 150px;
+    float: left;
+    margin-top: -66px;
+}   
+.wayfinding-header4{
+    left: 15px;
+    width: 150px;
+    float: left;
+    margin-bottom: 200px;
+    margin-top: -154px;
+} 
+.wayfinding-image-credit{
+    left: 168px;
+    width: 210px;
+    margin-top: 5px;
+    clear: both;
+}    
+.wayfinding-image-credit2{
+    left: 186px;
+    width: 200px;
+    clear: both;
+} 
     
 }
 
@@ -2443,7 +2694,39 @@ p {
 .profile-work-5{
     width: calc(80%);
 }  
-
+.profile-work-6{
+    width: calc(95%);
+}      
+.profile-work-8{
+    left: 0px;
+    width: calc(100%);
+}    
+.profile-work-9{
+    right: 10%;
+    width: calc(90%);
+}    
+.profile-work-10{
+    width: calc(100% - 0px);
+} 
+.profile-work-11{
+    width: calc(90% - 0px);
+}     
+.profile-work-12{
+    left: 150px;
+    float: left;
+    clear: both;
+    width: calc(100% - 300px);
+}    
+.profile-work-13{
+    left: 50px;
+    float: left;
+    width: calc(100% - 100px);
+}  
+.profile-work-15{
+    left: 0px;
+    float: left;
+    width: calc(100% - 0px);
+}       
 .footer-text {
     height: 550px;
     }
@@ -2783,6 +3066,67 @@ input[type=text] {
     clear: both;
     float: left;  
 }   
+.wayfinding{
+    clear: both;
+    width: 100vw;
+    margin-top: 50px;
+    float: left;
+    position: relative;
+}
+
+.wayfinding2{
+    clear: both;
+    width: 100%;
+    margin-top: -50px;
+    float: left;
+    position: relative;
+}     
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(100%);
+}   
+.wayfinding-block2{
+    left: 50px;
+    width: 80%;
+    margin-bottom: 150px;
+}    
+.wayfinding-block12{
+    padding-bottom: 100px;
+    left: 50px;
+    width: 80%;
+}    
+.categories-location{
+    left: 400px;
+    margin-top: -250px;
+}    
+.categories-location2{
+    left: 551px;
+}    
+.categories {
+    left: 445px;
+    margin-top: -250px;
+} 
+.categories2 {
+    left: 635px;
+}   
+.wayfinding-header3{
+    left: 255px;
+    width: 150px;
+    float: left;
+    margin-top: -66px;
+}   
+.wayfinding-header4{
+    left: 255px;
+    width: 150px;
+    float: left;
+    margin-top: -154px;
+} 
+.wayfinding-image-credit2{
+    left: 255px;
+}    
 }
 @media screen and (min-width: 1100px) and (max-width: 1300px) {
 
@@ -2890,7 +3234,33 @@ h8 {
 .profile-work-5{
     width: calc(950px);
 }  
-    
+
+.profile-work-8{
+    left: 0px;
+    width: calc(100%);
+}    
+.profile-work-9{
+    right: 10%;
+    width: calc(90%);
+}    
+.profile-work-10{
+    width: calc(100% - 0px);
+}        
+.profile-work-12{
+    left: 150px;
+    float: left;
+    clear: both;
+}    
+.profile-work-13{
+    left: 50px;
+    float: left;
+    width: calc(100% - 100px);
+}  
+.profile-work-15{
+    left: 0px;
+    float: left;
+    width: calc(100% - 100px);
+}      
 .profile-map{
     left: calc(30% - 50px);
     margin-top: -85px;
@@ -3010,6 +3380,40 @@ h8 {
     left: -110px;
     float: right;
 }        
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(900px);
+}   
+.wayfinding-block2{
+    left: 50px;
+}    
+.wayfinding-block12{
+    padding-bottom: 100px;
+}    
+.categories-location{
+    left: 555px;
+    margin-top: -250px;
+}    
+.categories-location2{
+    left: 555px;
+}    
+.categories {
+    left: 600px;
+    margin-top: -250px;
+} 
+.categories2 {
+    left: 640px;
+}   
+.wayfinding-header3{
+    left: 880px;
+    margin-top: -250px;
+}   
+.wayfinding-header4{
+    left: 880px;
+}
     
 }
 @media screen and (min-width: 1300px) and (max-width: 1390px) {   
@@ -3036,7 +3440,11 @@ h8 {
     left: -100px;
     float: right;
 }
-
+.profile-work-13{
+    left: 50px;
+    float: left;
+    width: calc(100% - 100px);
+}
 .map-links{
     margin-top: -15px;
     float: right;
@@ -3140,6 +3548,14 @@ h8 {
 .about-media-body{
     left: 10px;
     float: right;
+}   
+    
+.images-7{
+    left: 00px;
+    float: right;
+    margin-top: -150px;
+    position: relative;
+    width: calc(900px);
 }    
     
 }
@@ -3147,11 +3563,16 @@ h8 {
 
 
 @media screen and (min-width: 1441px) and (max-width: 1599px) {
-
+.sub-menu-rule{
+    left: -10000px;
+    width: 1000000px;
+}
 .images{
     width: calc(1440px - 100px);
-}
-        
+}      
+.branding{
+    width: calc(1440px);
+}     
 .profile-landing-image{
     width: calc(1440px - 100px);
 }
@@ -3166,17 +3587,17 @@ h8 {
 
 @media screen and (min-width: 1600px) and (max-width: 1899px) {
   
-/*
-.images{
-    width: calc(1440px - 100px);
+.sub-menu-rule{
+    left: -10000px;
+    width: 1000000px;
 }
-*/
-
 .images-4{
     left: -100px;
     width: calc(1600px);
 }      
-
+.branding{
+    width: calc(1440px);
+}
 .images{
     left: -80px;
     width: calc(1600px);
@@ -3225,14 +3646,38 @@ h8 {
     display: block;
     padding-top: 0px;
 }
+.profile-work-7{
+    left: 650px;
+    float: left;
+}    
+.profile-work-9{
+    left: 250px;
+    float: left;
+}
 
+.profile-work-10{
+    left: 240px;
+    float: left;
+    width: calc(1200px);
+}
+.profile-work-14{
+    left: 640px;
+    float: left;
+    width: calc(800px);
+}       
 }
 @media screen and (min-width: 1900px) and (max-width: 2549px) {
-
+.sub-menu-rule{
+    left: -10000px;
+    width: 1000000px;
+}
 .images-4{
     left: -100px;
     width: calc(1600px);
-}      
+}       
+.branding{
+    width: calc(1440px);
+}     
 
 .images{
     left: -80px;
@@ -3282,15 +3727,41 @@ h8 {
     width: calc(1100px);
     display: block;
     padding-top: 0px;
-}   
+}  
+.profile-work-7{
+    left: 650px;
+    float: left;
+}    
+.profile-work-9{
+    left: 250px;
+    float: left;
+}
+
+.profile-work-10{
+    left: 240px;
+    float: left;
+    width: calc(1200px);
+} 
+
+.profile-work-14{
+    left: 640px;
+    float: left;
+    width: calc(800px);
+}    
 }
 @media screen and (min-width: 2550px) and (max-width: 100440px) {
     
-
+.sub-menu-rule{
+    left: -10000px;
+    width: 1000000px;
+}
 .images-4{
     left: -100px;
     width: calc(1600px);
-}      
+}       
+.branding{
+    width: calc(1440px);
+}     
 
 .images{
     left: -80px;
@@ -3339,5 +3810,24 @@ h8 {
     width: calc(1100px);
     display: block;
     padding-top: 0px;
-}   
+} 
+.profile-work-7{
+    left: 650px;
+    float: left;
+}    
+.profile-work-9{
+    left: 250px;
+    float: left;
+}
+
+.profile-work-10{
+    left: 240px;
+    float: left;
+    width: calc(1200px);
+}  
+.profile-work-14{
+    left: 640px;
+    float: left;
+    width: calc(800px);
+}       
 }

@@ -19,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 
 body, html {
     overflow-x: hidden;
-    background-color: rgb(255, 59, 0);     
-    font-family: 'Untitled', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    background-color: rgb(255, 59, 0);
+    font-family: "Untitled", "Arial", "Helvetica", sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -146,22 +146,22 @@ html {
 
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Regular.woff'); 
-    src: url('/assets/fonts/UntitledSansWeb-Regular.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Regular.woff2'); 
+    src: url('/assets/fonts/UntitledSansWeb-Regular.woff2'); 
     font-style: normal;
     font-weight: 500;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Medium.woff'); 
-    src: url('/assets/fonts/UntitledSansWeb-Medium.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Medium.woff2'); 
+    src: url('/assets/fonts/UntitledSansWeb-Medium.woff2'); 
     font-style: normal;
     font-weight: 600;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Bold.woff'); 
-    src: url('/assets/fonts/UntitledSansWeb-Bold.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Bold.woff2'); 
+    src: url('/assets/fonts/UntitledSansWeb-Bold.woff2'); 
     font-style: bold;
     font-weight: 700;
     }
@@ -777,9 +777,9 @@ p:first-of-type {
 
 .sub-menu-rule{
     position: fixed;
-    left: -11110px;
+    left: 0px;
     z-index: 110;
-    width: 110440px;
+    width: 100vw;
     top: 350px;
     border: 2px solid #000;
     border-width: 0 0 2px;
@@ -2285,8 +2285,6 @@ input[type=text]:focus {
     margin-top: 0px;
 }
 
-
-
 .images-wayfinding{
     z-index: 10;
     left: 0px;
@@ -2447,18 +2445,6 @@ input[type=text]:focus {
     opacity: 1;
     margin-top: 0px;
 }
-
-/*
-.wayfinding-header3{
-    position: relative;
-    left: 207px;
-    float: left;
-    clear: both;
-    opacity: 1;
-    margin-top: -650px;
-}
-*/
-
 
 .wayfinding-header3{
     position: relative;
@@ -2956,8 +2942,6 @@ input[type=text]:focus {
     display: block;
 }
 
-
-
 .profile-work-section{
     padding-bottom: 200px;
     position: relative;
@@ -3084,7 +3068,6 @@ input[type=text]:focus {
     margin-top: 5px;   
 }
 
-
 /*About*/
 .degree-section{
     position: relative;
@@ -3095,8 +3078,6 @@ input[type=text]:focus {
     float: left;
     padding-bottom: 100px;
 }
-
-
 
 .about-image-credit{
     float: left;
@@ -3413,40 +3394,7 @@ input[type=text]:focus {
     position: relative;
     margin-top: 50px;
     float: left;
-/*
-        padding-right: 25px;
-    border: 2px solid #000;
-    border-width: 0px 2px 0px 0px;
-*/
 }
-
-/*
-.Contributors-section-header{
-    left: 900px;
-    position: relative;
-    top: 50px;
-    padding-bottom: 1px;
-    display: inline-block;
-    border: 2px solid #000;
-    border-width: 0 0 2px;
-    float: left;
-    clear: both;
-}
-
-.Contributors-section-body{
-    width: 500px;
-    left: 741px;
-    position: relative;
-    margin-top: 100px;
-    float: left;
-}
-*/
-
-
-
-
-
-/*ALFRED*/
 
 #block2-section1, #block2-section2, #block2-section3{
     opacity: 0;
@@ -3564,8 +3512,6 @@ input[type=text]:focus {
     padding-bottom: 2px;
     opacity: .25;
 }
-
-
 
 .map-links{
     position: relative;

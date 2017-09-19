@@ -266,10 +266,9 @@ $('.filter-industrial').click(function() {
   });
 
 
-         
- //-----Acknowledgements Page | START -----//
 
-//hover over the names
+
+//hover over the names on homepage
 
     $('#graduates li a').hover(function(){
 //        $('.student-filter').toggleClass('open');
@@ -413,9 +412,6 @@ $('.filter-industrial').click(function() {
     showNextQuote();
     
     
- //-----Acknowledgements Page | END -----//
-
-
 
  //-----Remove Hover for moblie | START -----//
 

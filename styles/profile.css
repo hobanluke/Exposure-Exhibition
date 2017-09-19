@@ -20,8 +20,7 @@ h1, h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, p {
 
 body, html {
     overflow-x: hidden;
-/*    background: #fdfdfd;*/
-    font-family: "Untitled", "Helvetica", "Arial", sans-serif;
+    font-family: "Untitled", "Arial", "Helvetica", sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
@@ -1354,12 +1353,12 @@ p:first-of-type {
 }
 
 .profile-work-11{
-    left: 50px;
+    left: 0px;
     clear: both;
     float: left;
     margin-top: 0px;
     position: relative;
-    width: calc(650px);
+    width: calc(1150px);
     display: block;
 }
 .profile-work-11 img{
@@ -1368,9 +1367,10 @@ p:first-of-type {
 .profile-work-12{
     left: 150px;
     float: left;
-    margin-top: 100px;
+    clear: both;
+    margin-top: 0px;
     position: relative;
-    width: calc(550px);
+    width: calc(800px);
     display: block;
     padding-top: 0px;
 }
