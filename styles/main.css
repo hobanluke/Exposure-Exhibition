@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6 {
 body, html {
     overflow-x: hidden;
     background-color: rgb(255, 59, 0);
-    font-family: "Untitled", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: 'Untitled', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
