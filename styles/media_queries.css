@@ -1,5 +1,10 @@
 @media screen and (min-width: 0px) and (max-width: 350px) {
-    
+.wrapper{
+    overflow-x: hidden;
+    width:100%;
+    height: 100vh;
+}
+ 
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -85,17 +90,15 @@
     display: none;
 }  
 .logo-menu img{
-    left: 50px;
-    top: 250px;
-    height: 35px;
-    display: none;
+    left: 205px;
+    top: 182px;
 }
 
 .logo-menu2 img{
-    left: 48px;
-    top: 348px;
-    display: none;
-}     
+    left: 208px;
+    top: 216px;
+    height: 27px;
+}    
     
 h1 {
     font-weight: 700;
@@ -894,7 +897,11 @@ input[type=text] {
 
 @media screen and (min-width: 351px) and (max-width: 412px) {
     
-
+.wrapper{
+    overflow-x: hidden;
+    width:100%;
+    height: 100vh;
+}
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -1715,7 +1722,11 @@ input[type=text] {
 }
 
 @media screen and (min-width: 413px) and (max-width: 800px) {    
-
+.wrapper{
+    overflow-x: hidden;
+    width:100%;
+    height: 100vh;
+}
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -2543,7 +2554,11 @@ input[type=text] {
 }
 
 @media screen and (min-width: 801px) and (max-width: 1099px) {
-
+.wrapper{
+    overflow-x: hidden;
+    width:100%;
+    height: 100vh;
+}
 .button_container2 {
     font-size: 100px;
     line-height: 80px;
