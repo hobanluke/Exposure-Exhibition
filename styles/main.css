@@ -19,8 +19,8 @@ h1, h2, h3, h4, h5, h6 {
 
 body, html {
     overflow-x: hidden;
-    background-color: rgb(255, 59, 0);
-    font-family: "Untitled", "Helvetica", "Arial", sans-serif;
+    background-color: rgb(255, 59, 0);     
+    font-family: 'Untitled', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 }
