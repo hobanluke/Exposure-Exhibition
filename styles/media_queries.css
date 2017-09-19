@@ -1,10 +1,5 @@
 @media screen and (min-width: 0px) and (max-width: 350px) {
-.wrapper{
-    overflow-x: hidden;
-    width:100%;
-    height: 100vh;
-}
- 
+
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -897,11 +892,6 @@ input[type=text] {
 
 @media screen and (min-width: 351px) and (max-width: 412px) {
     
-.wrapper{
-    overflow-x: hidden;
-    width:100%;
-    height: 100vh;
-}
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -1722,11 +1712,7 @@ input[type=text] {
 }
 
 @media screen and (min-width: 413px) and (max-width: 800px) {    
-.wrapper{
-    overflow-x: hidden;
-    width:100%;
-    height: 100vh;
-}
+
 .menu-header{
     width: calc(100%);
     top: 0;
@@ -2554,11 +2540,7 @@ input[type=text] {
 }
 
 @media screen and (min-width: 801px) and (max-width: 1099px) {
-.wrapper{
-    overflow-x: hidden;
-    width:100%;
-    height: 100vh;
-}
+
 .button_container2 {
     font-size: 100px;
     line-height: 80px;

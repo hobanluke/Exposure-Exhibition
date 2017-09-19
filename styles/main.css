@@ -146,22 +146,22 @@ html {
 
 @font-face {
     font-family: 'Untitled';
-    src: url('assets/fonts/UntitledSansWeb-Regular.woff'); 
-    src: url('assets/fonts/UntitledSansWeb-Regular.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Regular.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Regular.woff'); 
     font-style: normal;
     font-weight: 500;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('assets/fonts/UntitledSansWeb-Medium.woff'); 
-    src: url('assets/fonts/UntitledSansWeb-Medium.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Medium.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Medium.woff'); 
     font-style: normal;
     font-weight: 600;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('assets/fonts/UntitledSansWeb-Bold.woff'); 
-    src: url('assets/fonts/UntitledSansWeb-Bold.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Bold.woff'); 
+    src: url('/assets/fonts/UntitledSansWeb-Bold.woff'); 
     font-style: bold;
     font-weight: 700;
     }
@@ -471,7 +471,7 @@ p:first-of-type {
     margin-left: auto;
     margin-right: auto;
     overflow-x: hidden;
-    height: 100vh;
+    height: 100%;
 
 }
 
