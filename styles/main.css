@@ -146,22 +146,22 @@ html {
 
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Regular.woff2'); 
-    src: url('/assets/fonts/UntitledSansWeb-Regular.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Regular.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Regular.woff2'); 
     font-style: normal;
     font-weight: 500;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Medium.woff2'); 
-    src: url('/assets/fonts/UntitledSansWeb-Medium.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Medium.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Medium.woff2'); 
     font-style: normal;
     font-weight: 600;
     }
 @font-face {
     font-family: 'Untitled';
-    src: url('/assets/fonts/UntitledSansWeb-Bold.woff2'); 
-    src: url('/assets/fonts/UntitledSansWeb-Bold.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Bold.woff2'); 
+    src: url('assets/fonts/UntitledSansWeb-Bold.woff2'); 
     font-style: bold;
     font-weight: 700;
     }
