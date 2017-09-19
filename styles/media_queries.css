@@ -923,55 +923,55 @@ input[type=text] {
     left: calc(100vw - 60px);
     }
 .indent-big{
-    margin-left: 80px;
+    margin-left: 85px;
 }
 .indent-big2{
     clear: both;
     position: absolute;
-    margin-left: 80px;
+    margin-left: 85px;
 } 
 .menu-letter {
     position: fixed;
-    left: 25px;
+    left: 15px;
     opacity: 1;
     z-index: 110;
     top: 10px;
     }
 .menu-letter2 {
     position: fixed;
-    left: 25px;
+    left: 15px;
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 108px;
+    top: 104px;
     text-align: left;
     }
 
 .menu-letter3 {
     position: fixed;
-    left: 25px;
+    left: 15px;
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 210px;
+    top: 202px;
     text-align: left;
     }
 .menu-letter4 {
-    left: 25px;
+    left: 15px;
     width: 400px;
     top: 485px;
     }
 
 .menu-letter5 {
-    left: 25px;
+    left: 15px;
     top: 540px;
     }
 .sub-menu-rule{
-    top: 317px;
+    top: 305px;
 }
 .sub-menu{
-    top: 325px;
-    left: 25px;
+    top: 315px;
+    left: 15px;
 }
 
 .sub-menu3{
@@ -980,23 +980,21 @@ input[type=text] {
     display: none;
 }  
 .logo-menu img{
-    left: 50px;
-    top: 250px;
+    left: 245px;
+    top: 214px;
     height: 35px;
-    display: none;
 }
 
 .logo-menu2 img{
-    left: 48px;
-    top: 348px;
-    display: none;
+    left: 238px;
+    top: 251px;
 }     
     
 h1 {
     font-weight: 700;
     letter-spacing: -2.6px;
     font-size: 55px;
-    line-height: 50px;
+    line-height: 48px;
 }
 
 
@@ -1081,7 +1079,7 @@ p {
     
 .menu-text {
     top: 25px;
-    left: 25px;
+    left: 15px;
     font-size: 12px;
     line-height: 16px;
     font-weight: 700;
@@ -1766,7 +1764,7 @@ input[type=text] {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 118px;
+    top: 115px;
     text-align: left;
     }
 
@@ -1776,24 +1774,24 @@ input[type=text] {
     opacity: 1;
     z-index: 110;
     width: 400px;
-    top: 230px;
+    top: 225px;
     text-align: left;
     }
 .menu-letter4 {
     left: 25px;
     width: 400px;
-    top: 565px;
+    top: 555px;
     }
 
 .menu-letter5 {
     left: 25px;
-    top: 620px;
+    top: 610px;
     }
 .sub-menu-rule{
-    top: 350px;
+    top: 342px;
 }
 .sub-menu{
-    top: 360px;
+    top: 355px;
     left: 25px;
 }
 
@@ -1803,23 +1801,21 @@ input[type=text] {
     display: none;
 }  
 .logo-menu img{
-    left: 50px;
-    top: 250px;
+    left: 285px;
+    top: 243px;
     height: 35px;
-    display: none;
 }
 
 .logo-menu2 img{
-    left: 48px;
-    top: 348px;
-    display: none;
+    left: 278px;
+    top: 281px;
 }   
     
 h1 {
     font-weight: 700;
     letter-spacing: -2.6px;
     font-size: 60px;
-    line-height: 55px;
+    line-height: 53px;
 }
 
 h2 {
@@ -1897,8 +1893,8 @@ p {
     }
     
 .menu-text-header2{
-    margin-left: -5px
-/*        opacity: 0;*/
+    margin-left: -5px;
+        opacity: 0;
     }  
     
 .menu-text {
